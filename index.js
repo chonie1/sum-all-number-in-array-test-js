@@ -10,7 +10,7 @@ function sumItems(array) {
     } else {
       sum += elem;
     }
-  }s
+  }
   return sum;
 }
 
